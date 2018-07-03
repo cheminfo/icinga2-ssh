@@ -1,2 +1,3 @@
 # icinga2-ssh
-Add SSH supp
+
+icinga2 Docker image with SSH support.
